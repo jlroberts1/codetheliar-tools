@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-14 18:12 · **OpenAI** · [How Block is building AI-powered security with OpenAI technology](https://openai.com/index/block-ai-powered-security)
+- 2026-10-14 18:12 · **HN 197 pts** · [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 - 2026-10-14 14:21 · **OpenAI** · [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding)
 - 2026-10-14 14:21 · **OpenAI** · [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone)
 - 2026-10-14 14:21 · **OpenAI** · [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research)

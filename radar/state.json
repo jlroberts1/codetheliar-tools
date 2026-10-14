@@ -19,7 +19,9 @@
     "feed:https://openai.com/index/third-moment-research": "2026-10-14T19:21:52.150435+00:00",
     "feed:https://huggingface.co/blog/allenai/hiro-acev2": "2026-10-14T19:21:52.150435+00:00",
     "hn:50091788": "2026-10-14T19:21:52.150435+00:00",
-    "x:2110444288131690537": "2026-10-14T19:21:52.150435+00:00"
+    "x:2110444288131690537": "2026-10-14T19:21:52.150435+00:00",
+    "feed:https://openai.com/index/block-ai-powered-security": "2026-10-14T23:12:34.092556+00:00",
+    "hn:50094694": "2026-10-14T23:12:34.092556+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -36,9 +38,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.02
+    "2026-10": 0.025
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2110444288131690537"
+  "x_since_id": "2110490847905272314"
 }
