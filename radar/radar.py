@@ -210,6 +210,8 @@ def main():
     state["seen"] = {k: v for k, v in seen.items() if v > keep_after}
     state["seeded"] = True
     state["last_errors"] = errors
+    if not LOG.exists():
+        LOG.write_text(LOG_HEADER)
     if not first_run and new:
         write_log(new, now, ZoneInfo(cfg.get("timezone", "America/Chicago")))
     STATE.write_text(json.dumps(state, indent=2))
