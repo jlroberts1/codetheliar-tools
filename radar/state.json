@@ -1,0 +1,34 @@
+{
+  "seen": {
+    "feed:https://openai.com/index/higgsfield-longer-videos-voice": "2026-10-14T04:45:54.170550+00:00",
+    "feed:https://blog.google/innovation-and-ai/technology/health/ai-health-research/": "2026-10-14T04:45:54.170550+00:00",
+    "feed:https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": "2026-10-14T04:45:54.170550+00:00",
+    "feed:https://simonwillison.net/2026/Oct/13/llm-gemini/": "2026-10-14T04:45:54.170550+00:00",
+    "feed:https://simonwillison.net/2026/Oct/12/llm-meta-ai/": "2026-10-14T04:45:54.170550+00:00",
+    "gh:tag:github.com,2008:Repository/937253475/v2.1.299": "2026-10-14T04:45:54.170550+00:00",
+    "gh:tag:github.com,2008:Repository/968197216/v0.64.0": "2026-10-14T04:45:54.170550+00:00",
+    "gh:tag:github.com,2008:Repository/658928958/v0.40.4": "2026-10-14T04:45:54.170550+00:00",
+    "hn:50073879": "2026-10-14T04:45:54.170550+00:00",
+    "hn:50073633": "2026-10-14T04:45:54.170550+00:00",
+    "hn:50078141": "2026-10-14T04:45:54.170550+00:00"
+  },
+  "github_minor": {
+    "anthropics/claude-code": [
+      2,
+      1
+    ],
+    "google-gemini/gemini-cli": [
+      0,
+      64
+    ],
+    "ollama/ollama": [
+      0,
+      40
+    ]
+  },
+  "x_cost_usd": {
+    "2026-10": 0.0
+  },
+  "seeded": true,
+  "last_errors": []
+}

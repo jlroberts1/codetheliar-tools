@@ -1,0 +1,8 @@
+{
+  "extraKnownMarketplaces": {
+    "agentic-sdlc-deploygate": {
+      "source": { "source": "github", "repo": "jlroberts1/agentic-sdlc-plugin" }
+    }
+  },
+  "enabledPlugins": { "agentic-sdlc@agentic-sdlc-deploygate": true }
+}

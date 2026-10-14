@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+reply-rollup/fixtures/rollups/
+reply-rollup/fixtures/state.json
+.env
+credentials.json
+.claude/*
+!.claude/settings.json

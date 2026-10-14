@@ -1,0 +1,15 @@
+{
+  "_fixture_now": "2026-10-13T12:30:00Z",
+  "data": [
+    {"id": "1001", "author_id": "u1", "created_at": "2026-10-13T12:05:00Z", "text": "Shipped a new Claude Code hooks feature today. What should we build next?", "public_metrics": {"like_count": 400, "retweet_count": 40, "reply_count": 60, "quote_count": 10, "bookmark_count": 90}},
+    {"id": "1002", "author_id": "u2", "created_at": "2026-10-13T08:00:00Z", "text": "Old post with lots of likes", "public_metrics": {"like_count": 3000, "retweet_count": 300, "reply_count": 900, "quote_count": 50, "bookmark_count": 400}},
+    {"id": "1003", "author_id": "u2", "created_at": "2026-10-13T12:20:00Z", "text": "RT", "referenced_tweets": [{"type": "retweeted", "id": "9"}], "public_metrics": {"like_count": 0, "retweet_count": 0, "reply_count": 0, "quote_count": 0, "bookmark_count": 0}},
+    {"id": "1004", "author_id": "u3", "created_at": "2026-10-13T11:50:00Z", "text": "Hot take: evals matter more than prompts for agents.", "public_metrics": {"like_count": 50, "retweet_count": 5, "reply_count": 8, "quote_count": 1, "bookmark_count": 20}},
+    {"id": "1005", "author_id": "u1", "created_at": "2026-10-13T03:00:00Z", "text": "Too old for the 6h window", "public_metrics": {"like_count": 999, "retweet_count": 0, "reply_count": 0, "quote_count": 0, "bookmark_count": 0}}
+  ],
+  "includes": {"users": [
+    {"id": "u1", "username": "bigbuilder", "name": "Big", "public_metrics": {"followers_count": 250000}},
+    {"id": "u2", "username": "newsacct", "name": "News", "public_metrics": {"followers_count": 800000}},
+    {"id": "u3", "username": "peerdev", "name": "Peer", "public_metrics": {"followers_count": 8000}}
+  ]}
+}

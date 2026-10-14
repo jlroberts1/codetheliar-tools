@@ -1,0 +1,49 @@
+{
+  "feeds": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://blog.google/technology/google-deepmind/rss/"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "name": "Simon Willison (llm-release)",
+      "url": "https://simonwillison.net/tags/llm-release.atom"
+    }
+  ],
+  "github_releases": [
+    "anthropics/claude-code",
+    "openai/codex",
+    "google-gemini/gemini-cli",
+    "modelcontextprotocol/modelcontextprotocol",
+    "ollama/ollama"
+  ],
+  "hacker_news": {
+    "min_points": 150,
+    "keywords": "claude|anthropic|openai|gpt|gemini|llama|mistral|deepseek|qwen|grok|llm|agent|codex|cursor|copilot|mcp|model|open.?weights?|open.?source"
+  },
+  "x_accounts": {
+    "enabled": true,
+    "handles": [
+      "AnthropicAI",
+      "claudeai",
+      "OpenAIDevs",
+      "cursor_ai",
+      "GoogleDeepMind",
+      "huggingface",
+      "vercel",
+      "LangChainAI",
+      "github",
+      "xai"
+    ],
+    "max_posts_per_run": 10,
+    "notify_keywords": "introduc|launch|now available|available (today|now)|release|shipp|new model|rolling out|generally available|\\bGA\\b|open.?sourc|announc"
+  },
+  "timezone": "America/Chicago"
+}
