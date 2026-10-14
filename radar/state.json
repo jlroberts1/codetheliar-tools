@@ -13,7 +13,13 @@
     "hn:50078141": "2026-10-14T04:45:54.170550+00:00",
     "feed:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": "2026-10-14T10:10:02.590239+00:00",
     "feed:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/": "2026-10-14T10:10:02.590239+00:00",
-    "hn:50084240": "2026-10-14T15:07:30.012281+00:00"
+    "hn:50084240": "2026-10-14T15:07:30.012281+00:00",
+    "feed:https://openai.com/index/amp-beyond-coding": "2026-10-14T19:21:52.150435+00:00",
+    "feed:https://openai.com/index/sentinelone": "2026-10-14T19:21:52.150435+00:00",
+    "feed:https://openai.com/index/third-moment-research": "2026-10-14T19:21:52.150435+00:00",
+    "feed:https://huggingface.co/blog/allenai/hiro-acev2": "2026-10-14T19:21:52.150435+00:00",
+    "hn:50091788": "2026-10-14T19:21:52.150435+00:00",
+    "x:2110444288131690537": "2026-10-14T19:21:52.150435+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -30,9 +36,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.01
+    "2026-10": 0.02
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2110350304613114226"
+  "x_since_id": "2110444288131690537"
 }
