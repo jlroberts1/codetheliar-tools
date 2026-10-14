@@ -10,7 +10,9 @@
     "gh:tag:github.com,2008:Repository/658928958/v0.40.4": "2026-10-14T04:45:54.170550+00:00",
     "hn:50073879": "2026-10-14T04:45:54.170550+00:00",
     "hn:50073633": "2026-10-14T04:45:54.170550+00:00",
-    "hn:50078141": "2026-10-14T04:45:54.170550+00:00"
+    "hn:50078141": "2026-10-14T04:45:54.170550+00:00",
+    "feed:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": "2026-10-14T10:10:02.590239+00:00",
+    "feed:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/": "2026-10-14T10:10:02.590239+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -27,8 +29,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.0
+    "2026-10": 0.005
   },
   "seeded": true,
-  "last_errors": []
+  "last_errors": [],
+  "x_since_id": "2110289695888511368"
 }
