@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-15 02:24 · **HN 172 pts** · [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- 2026-10-15 02:24 · **HN 156 pts** · [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
 - 2026-10-14 18:12 · **OpenAI** · [How Block is building AI-powered security with OpenAI technology](https://openai.com/index/block-ai-powered-security)
 - 2026-10-14 18:12 · **HN 197 pts** · [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 - 2026-10-14 14:21 · **OpenAI** · [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding)
