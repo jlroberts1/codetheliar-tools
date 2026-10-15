@@ -2,6 +2,11 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-15 16:27 · **Hugging Face** · [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
+- 2026-10-15 16:27 · **GitHub openai/codex** · [codex rust-v0.163.0](https://github.com/openai/codex/releases/tag/rust-v0.163.0)
+- 2026-10-15 16:27 · **HN 203 pts** · [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)
+- 2026-10-15 16:27 · **X @OpenAIDevs** · [Sites is now generally available for Enterprise, with US and EU data residency for new Sites in eligible workspaces. Build team apps with da](https://x.com/OpenAIDevs/status/2110832979656524283)
+- 2026-10-15 16:27 · **X @vercel** · [Introducing https://t.co/KWzuDDlyvD. Limited drops, original designs, and a few things you didn't see coming. Powered by @nextjs, @Shopify H](https://x.com/vercel/status/2110808586389766404)
 - 2026-10-15 13:16 · **OpenAI** · [Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
 - 2026-10-15 13:16 · **Hugging Face** · [Apertus 1.5 Release Notes](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)
 - 2026-10-15 13:16 · **Hugging Face** · [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](https://huggingface.co/blog/meta-muse-spark-open)
