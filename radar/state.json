@@ -24,7 +24,13 @@
     "hn:50094694": "2026-10-14T23:12:34.092556+00:00",
     "hn:50097369": "2026-10-15T07:24:27.687364+00:00",
     "hn:50092470": "2026-10-15T07:24:27.687364+00:00",
-    "feed:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/": "2026-10-15T13:24:14.630907+00:00"
+    "feed:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/": "2026-10-15T13:24:14.630907+00:00",
+    "feed:https://openai.com/index/teaching-students-to-think-and-learn-through-questions": "2026-10-15T18:16:39.813415+00:00",
+    "feed:https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": "2026-10-15T18:16:39.813415+00:00",
+    "feed:https://huggingface.co/blog/meta-muse-spark-open": "2026-10-15T18:16:39.813415+00:00",
+    "feed:https://huggingface.co/blog/flux-3": "2026-10-15T18:16:39.813415+00:00",
+    "x:2110788459803938944": "2026-10-15T18:16:39.813415+00:00",
+    "x:2110786348131258456": "2026-10-15T18:16:39.813415+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -41,9 +47,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.045
+    "2026-10": 0.08
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2110720940665372825"
+  "x_since_id": "2110790963300045063"
 }
