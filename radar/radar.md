@@ -2,6 +2,9 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-16 17:50 · **HN 176 pts** · [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
+- 2026-10-16 17:50 · **HN 176 pts** · [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)
+- 2026-10-16 17:50 · **HN 170 pts** · [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 - 2026-10-16 14:56 · **OpenAI** · [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
 - 2026-10-16 14:56 · **HN 213 pts** · [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 - 2026-10-16 11:36 · **Hugging Face** · [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
