@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-16 00:50 · **OpenAI** · [Sullivan & Cromwell brings legal expertise into agreement review](https://openai.com/index/sullivan-cromwell)
+- 2026-10-16 00:50 · **Hugging Face** · [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
 - 2026-10-15 19:23 · **OpenAI** · [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
 - 2026-10-15 19:23 · **X @github** · [New in GitHub Transparency data: Learn about government takedown requests and reporting, and get a recap of 2026 state legislative sessions ](https://x.com/github/status/2110885672081121424)
 - 2026-10-15 19:23 · **X @cursor_ai** · [Muse Wonder from Meta Superintelligence Labs is now available in Cursor! It scores 46.1% on CursorBench at default effort, the highest of an](https://x.com/cursor_ai/status/2110867556693430293)

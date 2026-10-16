@@ -38,7 +38,9 @@
     "x:2110808586389766404": "2026-10-15T21:27:41.130077+00:00",
     "feed:https://openai.com/index/introducing-the-rosalind-academic-plan": "2026-10-16T00:23:08.833787+00:00",
     "x:2110885672081121424": "2026-10-16T00:23:08.833787+00:00",
-    "x:2110867556693430293": "2026-10-16T00:23:08.833787+00:00"
+    "x:2110867556693430293": "2026-10-16T00:23:08.833787+00:00",
+    "feed:https://openai.com/index/sullivan-cromwell": "2026-10-16T05:50:19.034916+00:00",
+    "feed:https://huggingface.co/blog/nvidia/scaling-indic-pretraining": "2026-10-16T05:50:19.034916+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
