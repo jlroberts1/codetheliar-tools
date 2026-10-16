@@ -2,6 +2,9 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-15 19:23 · **OpenAI** · [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
+- 2026-10-15 19:23 · **X @github** · [New in GitHub Transparency data: Learn about government takedown requests and reporting, and get a recap of 2026 state legislative sessions ](https://x.com/github/status/2110885672081121424)
+- 2026-10-15 19:23 · **X @cursor_ai** · [Muse Wonder from Meta Superintelligence Labs is now available in Cursor! It scores 46.1% on CursorBench at default effort, the highest of an](https://x.com/cursor_ai/status/2110867556693430293)
 - 2026-10-15 16:27 · **Hugging Face** · [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
 - 2026-10-15 16:27 · **GitHub openai/codex** · [codex rust-v0.163.0](https://github.com/openai/codex/releases/tag/rust-v0.163.0)
 - 2026-10-15 16:27 · **HN 203 pts** · [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)
