@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-16 11:36 · **Hugging Face** · [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
 - 2026-10-16 00:50 · **OpenAI** · [Sullivan & Cromwell brings legal expertise into agreement review](https://openai.com/index/sullivan-cromwell)
 - 2026-10-16 00:50 · **Hugging Face** · [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
 - 2026-10-15 19:23 · **OpenAI** · [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)
