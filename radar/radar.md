@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-16 14:56 · **OpenAI** · [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
+- 2026-10-16 14:56 · **HN 213 pts** · [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 - 2026-10-16 11:36 · **Hugging Face** · [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
 - 2026-10-16 00:50 · **OpenAI** · [Sullivan & Cromwell brings legal expertise into agreement review](https://openai.com/index/sullivan-cromwell)
 - 2026-10-16 00:50 · **Hugging Face** · [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
