@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-17 06:36 · **HN 201 pts** · [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+- 2026-10-17 06:36 · **HN 201 pts** · [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 - 2026-10-17 01:55 · **OpenAI** · [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners)
 - 2026-10-16 20:18 · **OpenAI** · [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
 - 2026-10-16 20:18 · **HN 188 pts** · [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
