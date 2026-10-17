@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-16 20:18 · **OpenAI** · [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
+- 2026-10-16 20:18 · **HN 188 pts** · [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
 - 2026-10-16 17:50 · **HN 176 pts** · [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
 - 2026-10-16 17:50 · **HN 176 pts** · [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)
 - 2026-10-16 17:50 · **HN 170 pts** · [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
