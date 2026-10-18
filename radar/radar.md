@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-18 04:35 · **HN 169 pts** · [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
 - 2026-10-17 10:31 · **HN 172 pts** · [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 - 2026-10-17 10:31 · **HN 159 pts** · [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
 - 2026-10-17 06:36 · **HN 201 pts** · [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
