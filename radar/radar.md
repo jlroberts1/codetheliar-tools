@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-19 18:38 · **OpenAI** · [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages)
 - 2026-10-19 14:21 · **Hugging Face** · [TorchNeuron: running HF models on AWS Trainium is easier than ever](https://huggingface.co/blog/hf-torchneuron)
 - 2026-10-19 14:21 · **HN 230 pts** · [CERN and Mistral sign a statement of intent to establish a strategic partnership](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)
 - 2026-10-19 14:21 · **X @vercel** · [Vercel and @Shopify are making agents first-class shoppers. Vercel Shop, our Next.js storefront template for Shopify, is GA. • Built on Shop](https://x.com/vercel/status/2112204091216847249)
