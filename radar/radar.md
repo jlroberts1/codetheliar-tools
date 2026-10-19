@@ -2,6 +2,10 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-19 08:16 · **HN 269 pts** · [Documents: Police officer gave her Flock login to her ICE agent husband](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816)
+- 2026-10-19 08:16 · **HN 226 pts** · [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/)
+- 2026-10-19 08:16 · **HN 215 pts** · [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
+- 2026-10-19 08:16 · **HN 153 pts** · [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
 - 2026-10-18 20:14 · **HN 195 pts** · [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
 - 2026-10-18 15:39 · **X @github** · [The GitHub Security Lab used an open-source agent to find 24 Android vulnerabilities, including a location leak in a navigation app with 10M](https://x.com/github/status/2111880011485516083)
 - 2026-10-18 04:35 · **HN 169 pts** · [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
