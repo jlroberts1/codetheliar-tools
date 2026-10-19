@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-18 20:14 · **HN 195 pts** · [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
 - 2026-10-18 15:39 · **X @github** · [The GitHub Security Lab used an open-source agent to find 24 Android vulnerabilities, including a location leak in a navigation app with 10M](https://x.com/github/status/2111880011485516083)
 - 2026-10-18 04:35 · **HN 169 pts** · [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
 - 2026-10-17 10:31 · **HN 172 pts** · [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
