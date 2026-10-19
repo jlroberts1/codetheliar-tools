@@ -2,6 +2,9 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-19 14:21 · **Hugging Face** · [TorchNeuron: running HF models on AWS Trainium is easier than ever](https://huggingface.co/blog/hf-torchneuron)
+- 2026-10-19 14:21 · **HN 230 pts** · [CERN and Mistral sign a statement of intent to establish a strategic partnership](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)
+- 2026-10-19 14:21 · **X @vercel** · [Vercel and @Shopify are making agents first-class shoppers. Vercel Shop, our Next.js storefront template for Shopify, is GA. • Built on Shop](https://x.com/vercel/status/2112204091216847249)
 - 2026-10-19 08:16 · **HN 269 pts** · [Documents: Police officer gave her Flock login to her ICE agent husband](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816)
 - 2026-10-19 08:16 · **HN 226 pts** · [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/)
 - 2026-10-19 08:16 · **HN 215 pts** · [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
