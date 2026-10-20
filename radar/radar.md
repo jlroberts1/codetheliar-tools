@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-20 05:02 · **HN 437 pts** · [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
+- 2026-10-20 05:02 · **HN 251 pts** · [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
 - 2026-10-19 23:47 · **HN 174 pts** · [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
 - 2026-10-19 18:38 · **OpenAI** · [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages)
 - 2026-10-19 14:21 · **Hugging Face** · [TorchNeuron: running HF models on AWS Trainium is easier than ever](https://huggingface.co/blog/hf-torchneuron)
