@@ -2,6 +2,14 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-20 14:14 · **OpenAI** · [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant)
+- 2026-10-20 14:14 · **OpenAI** · [OpenAI acquires Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio)
+- 2026-10-20 14:14 · **Hugging Face** · [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](https://huggingface.co/blog/nvidia/cosmos3-h-dreams)
+- 2026-10-20 14:14 · **Hugging Face** · [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress)
+- 2026-10-20 14:14 · **Hugging Face** · [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](https://huggingface.co/blog/ibm-research/altk-evolve-bc)
+- 2026-10-20 14:14 · **Hugging Face** · [Hugging Face ❤️ TorchTPU: TPUs, Natively](https://huggingface.co/blog/hf-torchtpu)
+- 2026-10-20 14:14 · **HN 262 pts** · [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
+- 2026-10-20 14:14 · **X @OpenAIDevs** · [You can now automate recurring engineering work with team tasks in ChatGPT, like pulling together what shipped and what’s blocked every Frid](https://x.com/OpenAIDevs/status/2112565702552940794)
 - 2026-10-20 10:03 · **Hugging Face** · [AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms](https://huggingface.co/blog/anylanguagemodel-1-0)
 - 2026-10-20 10:03 · **Hugging Face** · [MPS in PyTorch 2.15](https://huggingface.co/blog/mps-pytorch-2-15)
 - 2026-10-20 10:03 · **HN 1338 pts** · [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)

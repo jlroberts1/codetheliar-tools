@@ -70,7 +70,15 @@
     "hn:50154244": "2026-10-20T10:02:03.568216+00:00",
     "feed:https://huggingface.co/blog/anylanguagemodel-1-0": "2026-10-20T15:03:39.057209+00:00",
     "feed:https://huggingface.co/blog/mps-pytorch-2-15": "2026-10-20T15:03:39.057209+00:00",
-    "hn:50163277": "2026-10-20T15:03:39.057209+00:00"
+    "hn:50163277": "2026-10-20T15:03:39.057209+00:00",
+    "feed:https://openai.com/index/ted-taylor-restaurant": "2026-10-20T19:14:13.310900+00:00",
+    "feed:https://openai.com/index/openai-to-acquire-orchestra-bio": "2026-10-20T19:14:13.310900+00:00",
+    "feed:https://huggingface.co/blog/nvidia/cosmos3-h-dreams": "2026-10-20T19:14:13.310900+00:00",
+    "feed:https://huggingface.co/blog/allenai/fairstress": "2026-10-20T19:14:13.310900+00:00",
+    "feed:https://huggingface.co/blog/ibm-research/altk-evolve-bc": "2026-10-20T19:14:13.310900+00:00",
+    "feed:https://huggingface.co/blog/hf-torchtpu": "2026-10-20T19:14:13.310900+00:00",
+    "hn:50165801": "2026-10-20T19:14:13.310900+00:00",
+    "x:2112565702552940794": "2026-10-20T19:14:13.310900+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -91,9 +99,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.245
+    "2026-10": 0.26
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2112557925264752930"
+  "x_since_id": "2112603916076781778"
 }
