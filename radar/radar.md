@@ -2,6 +2,9 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-20 17:18 · **GitHub google-gemini/gemini-cli** · [gemini-cli Release v0.65.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0)
+- 2026-10-20 17:18 · **HN 210 pts** · [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
+- 2026-10-20 17:18 · **X @vercel** · [Introducing 𝚍𝚞𝚛𝚊𝚋𝚕𝚎-𝚑𝚊𝚛𝚗𝚎𝚜𝚜. Run Pi, OpenCode, Codex, Claude Code, eve, fx, or your own harness durably on Vercel. With 𝚍𝚞𝚛𝚊𝚋𝚕𝚎-𝚑𝚊𝚛𝚗𝚎𝚜𝚜, age](https://x.com/vercel/status/2112653833382027729)
 - 2026-10-20 14:14 · **OpenAI** · [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant)
 - 2026-10-20 14:14 · **OpenAI** · [OpenAI acquires Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio)
 - 2026-10-20 14:14 · **Hugging Face** · [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](https://huggingface.co/blog/nvidia/cosmos3-h-dreams)
