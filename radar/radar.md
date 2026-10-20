@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-19 23:47 · **HN 174 pts** · [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
 - 2026-10-19 18:38 · **OpenAI** · [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages)
 - 2026-10-19 14:21 · **Hugging Face** · [TorchNeuron: running HF models on AWS Trainium is easier than ever](https://huggingface.co/blog/hf-torchneuron)
 - 2026-10-19 14:21 · **HN 230 pts** · [CERN and Mistral sign a statement of intent to establish a strategic partnership](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)
