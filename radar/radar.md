@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-21 08:46 · **OpenAI** · [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud)
+- 2026-10-21 08:46 · **Hugging Face** · [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
 - 2026-10-20 20:33 · **OpenAI** · [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x)
 - 2026-10-20 17:18 · **GitHub google-gemini/gemini-cli** · [gemini-cli Release v0.65.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0)
 - 2026-10-20 17:18 · **HN 210 pts** · [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)

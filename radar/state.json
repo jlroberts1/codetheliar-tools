@@ -82,7 +82,9 @@
     "gh:tag:github.com,2008:Repository/968197216/v0.65.0": "2026-10-20T22:18:21.481927+00:00",
     "hn:50169053": "2026-10-20T22:18:21.481927+00:00",
     "x:2112653833382027729": "2026-10-20T22:18:21.481927+00:00",
-    "feed:https://openai.com/index/terminal-x": "2026-10-21T01:33:53.155918+00:00"
+    "feed:https://openai.com/index/terminal-x": "2026-10-21T01:33:53.155918+00:00",
+    "feed:https://openai.com/index/openai-models-google-cloud": "2026-10-21T13:46:06.644648+00:00",
+    "feed:https://huggingface.co/blog/nvidia/kumo-forecast": "2026-10-21T13:46:06.644648+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
