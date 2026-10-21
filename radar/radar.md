@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-20 20:33 · **OpenAI** · [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x)
 - 2026-10-20 17:18 · **GitHub google-gemini/gemini-cli** · [gemini-cli Release v0.65.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0)
 - 2026-10-20 17:18 · **HN 210 pts** · [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 - 2026-10-20 17:18 · **X @vercel** · [Introducing 𝚍𝚞𝚛𝚊𝚋𝚕𝚎-𝚑𝚊𝚛𝚗𝚎𝚜𝚜. Run Pi, OpenCode, Codex, Claude Code, eve, fx, or your own harness durably on Vercel. With 𝚍𝚞𝚛𝚊𝚋𝚕𝚎-𝚑𝚊𝚛𝚗𝚎𝚜𝚜, age](https://x.com/vercel/status/2112653833382027729)
