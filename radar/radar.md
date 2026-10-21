@@ -2,6 +2,10 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-21 17:19 · **OpenAI** · [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards)
+- 2026-10-21 17:19 · **OpenAI** · [Democratic governance of frontier AI, part II: Empowering cyber defenders](https://openai.com/index/empowering-cyber-defenders)
+- 2026-10-21 17:19 · **HN 227 pts** · [Claude Duet](https://claude.com/product/claude-duet)
+- 2026-10-21 17:19 · **HN 195 pts** · [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)
 - 2026-10-21 13:36 · **OpenAI** · [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)
 - 2026-10-21 13:36 · **OpenAI** · [Patch the Planet: global response coordination as agents uncover critical vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities)
 - 2026-10-21 13:36 · **OpenAI** · [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries)

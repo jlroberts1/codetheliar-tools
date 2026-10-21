@@ -95,7 +95,11 @@
     "feed:https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": "2026-10-21T18:36:56.387480+00:00",
     "feed:https://huggingface.co/blog/ibm-granite/granite-speech-5": "2026-10-21T18:36:56.387480+00:00",
     "hn:50181175": "2026-10-21T18:36:56.387480+00:00",
-    "x:2112974723659247896": "2026-10-21T18:36:56.387480+00:00"
+    "x:2112974723659247896": "2026-10-21T18:36:56.387480+00:00",
+    "feed:https://openai.com/index/broad-access-through-consistent-standards": "2026-10-21T22:19:22.302393+00:00",
+    "feed:https://openai.com/index/empowering-cyber-defenders": "2026-10-21T22:19:22.302393+00:00",
+    "hn:50186037": "2026-10-21T22:19:22.302393+00:00",
+    "hn:50180079": "2026-10-21T22:19:22.302393+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -116,9 +120,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.3
+    "2026-10": 0.31
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2112974723659247896"
+  "x_since_id": "2112984664256241837"
 }
