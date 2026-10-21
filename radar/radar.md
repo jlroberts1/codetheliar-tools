@@ -2,6 +2,17 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-21 13:36 · **OpenAI** · [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)
+- 2026-10-21 13:36 · **OpenAI** · [Patch the Planet: global response coordination as agents uncover critical vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities)
+- 2026-10-21 13:36 · **OpenAI** · [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries)
+- 2026-10-21 13:36 · **OpenAI** · [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
+- 2026-10-21 13:36 · **OpenAI** · [How we built ChatGPT’s novel ad stack for user trust and relevance](https://openai.com/index/building-chatgpt-ad-stack)
+- 2026-10-21 13:36 · **Hugging Face** · [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
+- 2026-10-21 13:36 · **Hugging Face** · [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
+- 2026-10-21 13:36 · **Hugging Face** · [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
+- 2026-10-21 13:36 · **Hugging Face** · [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](https://huggingface.co/blog/ibm-granite/granite-speech-5)
+- 2026-10-21 13:36 · **HN 169 pts** · [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
+- 2026-10-21 13:36 · **X @GoogleDeepMind** · [Gemini 4 Argon combined three open-source datasets to build an interactive 3D visualization of human anatomy. Toggle different layers in mot](https://x.com/GoogleDeepMind/status/2112974723659247896)
 - 2026-10-21 08:46 · **OpenAI** · [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud)
 - 2026-10-21 08:46 · **Hugging Face** · [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
 - 2026-10-20 20:33 · **OpenAI** · [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x)

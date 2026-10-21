@@ -84,7 +84,18 @@
     "x:2112653833382027729": "2026-10-20T22:18:21.481927+00:00",
     "feed:https://openai.com/index/terminal-x": "2026-10-21T01:33:53.155918+00:00",
     "feed:https://openai.com/index/openai-models-google-cloud": "2026-10-21T13:46:06.644648+00:00",
-    "feed:https://huggingface.co/blog/nvidia/kumo-forecast": "2026-10-21T13:46:06.644648+00:00"
+    "feed:https://huggingface.co/blog/nvidia/kumo-forecast": "2026-10-21T13:46:06.644648+00:00",
+    "feed:https://openai.com/index/att-legal": "2026-10-21T18:36:56.387480+00:00",
+    "feed:https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": "2026-10-21T18:36:56.387480+00:00",
+    "feed:https://openai.com/index/chatgpt-ads-expands-26-new-countries": "2026-10-21T18:36:56.387480+00:00",
+    "feed:https://openai.com/index/scaling-ai-research-for-complex-biological-data": "2026-10-21T18:36:56.387480+00:00",
+    "feed:https://openai.com/index/building-chatgpt-ad-stack": "2026-10-21T18:36:56.387480+00:00",
+    "feed:https://huggingface.co/blog/nvidia/kumo-relational": "2026-10-21T18:36:56.387480+00:00",
+    "feed:https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": "2026-10-21T18:36:56.387480+00:00",
+    "feed:https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": "2026-10-21T18:36:56.387480+00:00",
+    "feed:https://huggingface.co/blog/ibm-granite/granite-speech-5": "2026-10-21T18:36:56.387480+00:00",
+    "hn:50181175": "2026-10-21T18:36:56.387480+00:00",
+    "x:2112974723659247896": "2026-10-21T18:36:56.387480+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -105,9 +116,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.27
+    "2026-10": 0.3
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2112653833382027729"
+  "x_since_id": "2112974723659247896"
 }
