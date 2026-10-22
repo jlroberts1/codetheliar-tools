@@ -100,7 +100,11 @@
     "feed:https://openai.com/index/empowering-cyber-defenders": "2026-10-21T22:19:22.302393+00:00",
     "hn:50186037": "2026-10-21T22:19:22.302393+00:00",
     "hn:50180079": "2026-10-21T22:19:22.302393+00:00",
-    "feed:https://openai.com/index/cloudflare-cyber": "2026-10-22T01:29:51.449929+00:00"
+    "feed:https://openai.com/index/cloudflare-cyber": "2026-10-22T01:29:51.449929+00:00",
+    "feed:https://openai.com/index/forward-deployed-engineering-means": "2026-10-22T13:46:15.505181+00:00",
+    "feed:https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": "2026-10-22T13:46:15.505181+00:00",
+    "hn:50190363": "2026-10-22T13:46:15.505181+00:00",
+    "hn:50191507": "2026-10-22T13:46:15.505181+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [

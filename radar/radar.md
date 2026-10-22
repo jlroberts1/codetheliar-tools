@@ -2,6 +2,10 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-22 08:46 · **OpenAI** · [What FDE means at OpenAI](https://openai.com/index/forward-deployed-engineering-means)
+- 2026-10-22 08:46 · **Hugging Face** · [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
+- 2026-10-22 08:46 · **HN 342 pts** · [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
+- 2026-10-22 08:46 · **HN 171 pts** · [OpenAI CLI](https://github.com/openai/openai-cli)
 - 2026-10-21 20:29 · **OpenAI** · [Cloudflare links vulnerability discovery to defense with OpenAI](https://openai.com/index/cloudflare-cyber)
 - 2026-10-21 17:19 · **OpenAI** · [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards)
 - 2026-10-21 17:19 · **OpenAI** · [Democratic governance of frontier AI, part II: Empowering cyber defenders](https://openai.com/index/empowering-cyber-defenders)
