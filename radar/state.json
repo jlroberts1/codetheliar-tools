@@ -99,7 +99,8 @@
     "feed:https://openai.com/index/broad-access-through-consistent-standards": "2026-10-21T22:19:22.302393+00:00",
     "feed:https://openai.com/index/empowering-cyber-defenders": "2026-10-21T22:19:22.302393+00:00",
     "hn:50186037": "2026-10-21T22:19:22.302393+00:00",
-    "hn:50180079": "2026-10-21T22:19:22.302393+00:00"
+    "hn:50180079": "2026-10-21T22:19:22.302393+00:00",
+    "feed:https://openai.com/index/cloudflare-cyber": "2026-10-22T01:29:51.449929+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -120,9 +121,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.31
+    "2026-10": 0.32
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2112984664256241837"
+  "x_since_id": "2113057501985796394"
 }

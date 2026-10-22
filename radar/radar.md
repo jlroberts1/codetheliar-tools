@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-21 20:29 · **OpenAI** · [Cloudflare links vulnerability discovery to defense with OpenAI](https://openai.com/index/cloudflare-cyber)
 - 2026-10-21 17:19 · **OpenAI** · [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards)
 - 2026-10-21 17:19 · **OpenAI** · [Democratic governance of frontier AI, part II: Empowering cyber defenders](https://openai.com/index/empowering-cyber-defenders)
 - 2026-10-21 17:19 · **HN 227 pts** · [Claude Duet](https://claude.com/product/claude-duet)
