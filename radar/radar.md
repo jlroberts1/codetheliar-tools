@@ -2,6 +2,9 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-22 13:31 · **OpenAI** · [Uber brings ChatGPT Work to all employees with OpenAI](https://openai.com/index/uber-chatgpt-work-rollout)
+- 2026-10-22 13:31 · **Hugging Face** · [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](https://huggingface.co/blog/allenai/olmoearth-v1-3)
+- 2026-10-22 13:31 · **X @huggingface** · [Even the most regulated industries are going open-source 🤗 https://t.co/BfLlVdQZo6](https://x.com/huggingface/status/2113289455121342950)
 - 2026-10-22 08:46 · **OpenAI** · [What FDE means at OpenAI](https://openai.com/index/forward-deployed-engineering-means)
 - 2026-10-22 08:46 · **Hugging Face** · [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
 - 2026-10-22 08:46 · **HN 342 pts** · [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)

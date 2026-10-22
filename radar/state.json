@@ -104,7 +104,10 @@
     "feed:https://openai.com/index/forward-deployed-engineering-means": "2026-10-22T13:46:15.505181+00:00",
     "feed:https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": "2026-10-22T13:46:15.505181+00:00",
     "hn:50190363": "2026-10-22T13:46:15.505181+00:00",
-    "hn:50191507": "2026-10-22T13:46:15.505181+00:00"
+    "hn:50191507": "2026-10-22T13:46:15.505181+00:00",
+    "feed:https://openai.com/index/uber-chatgpt-work-rollout": "2026-10-22T18:31:25.391804+00:00",
+    "feed:https://huggingface.co/blog/allenai/olmoearth-v1-3": "2026-10-22T18:31:25.391804+00:00",
+    "x:2113289455121342950": "2026-10-22T18:31:25.391804+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -125,9 +128,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.32
+    "2026-10": 0.33
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2113057501985796394"
+  "x_since_id": "2113289455121342950"
 }
