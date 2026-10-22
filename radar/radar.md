@@ -2,6 +2,10 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-22 17:18 · **OpenAI** · [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
+- 2026-10-22 17:18 · **HN 227 pts** · [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
+- 2026-10-22 17:18 · **X @claudeai** · [Claude Models on Google Cloud (Anthropic managed) is now generally available. Get the full set of Claude Platform features on Google Cloud, ](https://x.com/claudeai/status/2113380122468454765)
+- 2026-10-22 17:18 · **X @OpenAIDevs** · [Add near real-time decisions to your workflow with the Decisions API, now generally available. Build faster, more cost-efficient apps and ag](https://x.com/OpenAIDevs/status/2113346642787086538)
 - 2026-10-22 13:31 · **OpenAI** · [Uber brings ChatGPT Work to all employees with OpenAI](https://openai.com/index/uber-chatgpt-work-rollout)
 - 2026-10-22 13:31 · **Hugging Face** · [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](https://huggingface.co/blog/allenai/olmoearth-v1-3)
 - 2026-10-22 13:31 · **X @huggingface** · [Even the most regulated industries are going open-source 🤗 https://t.co/BfLlVdQZo6](https://x.com/huggingface/status/2113289455121342950)
