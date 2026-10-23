@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-23 13:19 · **OpenAI** · [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
+- 2026-10-23 13:19 · **Hugging Face** · [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
 - 2026-10-23 08:24 · **Hugging Face** · [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
 - 2026-10-23 08:24 · **HN 258 pts** · [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
 - 2026-10-23 02:29 · **OpenAI** · [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)

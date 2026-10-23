@@ -118,7 +118,9 @@
     "gh:tag:github.com,2008:Repository/965415649/rust-v0.164.0": "2026-10-23T07:29:23.834215+00:00",
     "hn:50202217": "2026-10-23T07:29:23.834215+00:00",
     "feed:https://huggingface.co/blog/torch-neuronx-model-support": "2026-10-23T13:24:08.872785+00:00",
-    "hn:50200997": "2026-10-23T13:24:08.872785+00:00"
+    "hn:50200997": "2026-10-23T13:24:08.872785+00:00",
+    "feed:https://openai.com/index/scaling-storage-one-billion-users-part-two": "2026-10-23T18:19:06.259089+00:00",
+    "feed:https://huggingface.co/blog/allenai/litpivot": "2026-10-23T18:19:06.259089+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -139,9 +141,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.355
+    "2026-10": 0.385
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2113397272943976560"
+  "x_since_id": "2113692028747825593"
 }
