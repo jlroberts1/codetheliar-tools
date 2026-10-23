@@ -2,6 +2,9 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-23 02:29 · **OpenAI** · [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)
+- 2026-10-23 02:29 · **GitHub openai/codex** · [codex 0.164.0](https://github.com/openai/codex/releases/tag/rust-v0.164.0)
+- 2026-10-23 02:29 · **HN 301 pts** · [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 - 2026-10-22 20:29 · **Hugging Face** · [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
 - 2026-10-22 20:29 · **HN 232 pts** · [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 - 2026-10-22 17:18 · **OpenAI** · [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
