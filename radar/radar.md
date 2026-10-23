@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-22 20:29 · **Hugging Face** · [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
+- 2026-10-22 20:29 · **HN 232 pts** · [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 - 2026-10-22 17:18 · **OpenAI** · [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api)
 - 2026-10-22 17:18 · **HN 227 pts** · [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
 - 2026-10-22 17:18 · **X @claudeai** · [Claude Models on Google Cloud (Anthropic managed) is now generally available. Get the full set of Claude Platform features on Google Cloud, ](https://x.com/claudeai/status/2113380122468454765)
