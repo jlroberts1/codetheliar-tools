@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-23 08:24 · **Hugging Face** · [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
+- 2026-10-23 08:24 · **HN 258 pts** · [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
 - 2026-10-23 02:29 · **OpenAI** · [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)
 - 2026-10-23 02:29 · **GitHub openai/codex** · [codex 0.164.0](https://github.com/openai/codex/releases/tag/rust-v0.164.0)
 - 2026-10-23 02:29 · **HN 301 pts** · [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)

@@ -116,7 +116,9 @@
     "hn:50197313": "2026-10-23T01:29:24.205125+00:00",
     "feed:https://openai.com/index/openai-nask-ai-safety-security-partnership": "2026-10-23T07:29:23.834215+00:00",
     "gh:tag:github.com,2008:Repository/965415649/rust-v0.164.0": "2026-10-23T07:29:23.834215+00:00",
-    "hn:50202217": "2026-10-23T07:29:23.834215+00:00"
+    "hn:50202217": "2026-10-23T07:29:23.834215+00:00",
+    "feed:https://huggingface.co/blog/torch-neuronx-model-support": "2026-10-23T13:24:08.872785+00:00",
+    "hn:50200997": "2026-10-23T13:24:08.872785+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
