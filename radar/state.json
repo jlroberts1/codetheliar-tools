@@ -120,7 +120,9 @@
     "feed:https://huggingface.co/blog/torch-neuronx-model-support": "2026-10-23T13:24:08.872785+00:00",
     "hn:50200997": "2026-10-23T13:24:08.872785+00:00",
     "feed:https://openai.com/index/scaling-storage-one-billion-users-part-two": "2026-10-23T18:19:06.259089+00:00",
-    "feed:https://huggingface.co/blog/allenai/litpivot": "2026-10-23T18:19:06.259089+00:00"
+    "feed:https://huggingface.co/blog/allenai/litpivot": "2026-10-23T18:19:06.259089+00:00",
+    "feed:https://openai.com/index/securing-our-frontier-model-training-environment": "2026-10-23T22:08:26.150376+00:00",
+    "feed:https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": "2026-10-23T22:08:26.150376+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -141,9 +143,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.385
+    "2026-10": 0.39
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2113692028747825593"
+  "x_since_id": "2113734126889251075"
 }
