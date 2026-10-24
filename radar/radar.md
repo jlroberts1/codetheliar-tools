@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-24 05:55 · **HN 163 pts** · [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
 - 2026-10-23 19:39 · **HN 197 pts** · [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
 - 2026-10-23 17:08 · **OpenAI** · [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
 - 2026-10-23 17:08 · **Simon Willison (llm-release)** · [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)
