@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-24 09:30 · **HN 151 pts** · [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
 - 2026-10-24 05:55 · **HN 163 pts** · [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
 - 2026-10-23 19:39 · **HN 197 pts** · [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
 - 2026-10-23 17:08 · **OpenAI** · [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
