@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-23 19:39 · **HN 197 pts** · [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
 - 2026-10-23 17:08 · **OpenAI** · [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
 - 2026-10-23 17:08 · **Simon Willison (llm-release)** · [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)
 - 2026-10-23 13:19 · **OpenAI** · [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
