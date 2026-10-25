@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-25 11:14 · **HN 242 pts** · [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
 - 2026-10-25 06:23 · **HN 190 pts** · [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 - 2026-10-24 09:30 · **HN 151 pts** · [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
 - 2026-10-24 05:55 · **HN 163 pts** · [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
