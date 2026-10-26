@@ -2,6 +2,14 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-26 14:16 · **OpenAI** · [ChatGPT’s expanding world of work](https://openai.com/index/chatgpt-expanding-world-of-work)
+- 2026-10-26 14:16 · **OpenAI** · [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience)
+- 2026-10-26 14:16 · **OpenAI** · [How Ultrafast cut incident investigation from hours to minutes at OpenAI](https://openai.com/index/openai-cut-incident-investigation)
+- 2026-10-26 14:16 · **OpenAI** · [Introducing GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra)
+- 2026-10-26 14:16 · **HN 1198 pts** · [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
+- 2026-10-26 14:16 · **HN 345 pts** · [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+- 2026-10-26 14:16 · **HN 170 pts** · [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
+- 2026-10-26 14:16 · **X @cursor_ai** · [The Agent SDK is now available. Define agents as code, with prompts in Markdown and tools in TypeScript. Deploy them on our hosted infrastru](https://x.com/cursor_ai/status/2114793714531102901)
 - 2026-10-26 07:57 · **HN 325 pts** · [IBM CEO says open weight models are now good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
 - 2026-10-26 07:57 · **HN 176 pts** · [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 - 2026-10-26 01:10 · **HN 237 pts** · [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
