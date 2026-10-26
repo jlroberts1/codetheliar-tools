@@ -2,6 +2,11 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-26 18:09 · **OpenAI** · [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)
+- 2026-10-26 18:09 · **OpenAI** · [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities)
+- 2026-10-26 18:09 · **OpenAI** · [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)
+- 2026-10-26 18:09 · **X @cursor_ai** · [DeepSeek V4.1 Flash is now available in Cursor! Every effort level sits on the CursorBench cost frontier: from $0.60 to $0.98 per task, no m](https://x.com/cursor_ai/status/2114839997568405608)
+- 2026-10-26 18:09 · **X @github** · [🆕 GPT-6.1 Terra from @OpenAIDevs is now generally available in GitHub Copilot. Our early testing shows GPT-6.1 Terra solved noticeably more ](https://x.com/github/status/2114799272634007801)
 - 2026-10-26 14:16 · **OpenAI** · [ChatGPT’s expanding world of work](https://openai.com/index/chatgpt-expanding-world-of-work)
 - 2026-10-26 14:16 · **OpenAI** · [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience)
 - 2026-10-26 14:16 · **OpenAI** · [How Ultrafast cut incident investigation from hours to minutes at OpenAI](https://openai.com/index/openai-cut-incident-investigation)
