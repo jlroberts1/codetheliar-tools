@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-27 18:46 · **OpenAI** · [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)
+- 2026-10-27 18:46 · **GitHub google-gemini/gemini-cli** · [gemini-cli Release v0.66.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0)
 - 2026-10-27 15:05 · **OpenAI** · [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)
 - 2026-10-27 15:05 · **OpenAI** · [How Check Point accelerates vulnerability research with Daybreak](https://openai.com/index/check-point-daybreak)
 - 2026-10-27 15:05 · **Google DeepMind** · [We’re announcing Genie 4, our new world model for real-time interactive simulation.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/)

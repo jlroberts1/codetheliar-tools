@@ -154,7 +154,9 @@
     "feed:https://huggingface.co/blog/LiquidAI/lfm3": "2026-10-27T20:05:10.967479+00:00",
     "feed:https://huggingface.co/blog/allenai/novelty-bench": "2026-10-27T20:05:10.967479+00:00",
     "gh:tag:github.com,2008:Repository/965415649/rust-v0.165.0": "2026-10-27T20:05:10.967479+00:00",
-    "hn:50260814": "2026-10-27T20:05:10.967479+00:00"
+    "hn:50260814": "2026-10-27T20:05:10.967479+00:00",
+    "feed:https://openai.com/index/retell-ai": "2026-10-27T23:46:05.403350+00:00",
+    "gh:tag:github.com,2008:Repository/968197216/v0.66.0": "2026-10-27T23:46:05.403350+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -163,7 +165,7 @@
     ],
     "google-gemini/gemini-cli": [
       0,
-      65
+      66
     ],
     "ollama/ollama": [
       0,
@@ -175,9 +177,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.47
+    "2026-10": 0.485
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2115159585548021814"
+  "x_since_id": "2115207004293853358"
 }
