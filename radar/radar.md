@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-26 21:03 · **Simon Willison (llm-release)** · [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/)
 - 2026-10-26 18:09 · **OpenAI** · [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)
 - 2026-10-26 18:09 · **OpenAI** · [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities)
 - 2026-10-26 18:09 · **OpenAI** · [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)
