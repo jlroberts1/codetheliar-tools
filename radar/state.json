@@ -147,7 +147,14 @@
     "x:2114799272634007801": "2026-10-26T23:09:50.341840+00:00",
     "feed:https://simonwillison.net/2026/Oct/26/gpt-61-terra/": "2026-10-27T02:03:52.334150+00:00",
     "hn:50256985": "2026-10-27T14:29:21.640036+00:00",
-    "hn:50252159": "2026-10-27T14:29:21.640036+00:00"
+    "hn:50252159": "2026-10-27T14:29:21.640036+00:00",
+    "feed:https://openai.com/index/oracle-apps-in-chatgpt": "2026-10-27T20:05:10.967479+00:00",
+    "feed:https://openai.com/index/check-point-daybreak": "2026-10-27T20:05:10.967479+00:00",
+    "feed:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/": "2026-10-27T20:05:10.967479+00:00",
+    "feed:https://huggingface.co/blog/LiquidAI/lfm3": "2026-10-27T20:05:10.967479+00:00",
+    "feed:https://huggingface.co/blog/allenai/novelty-bench": "2026-10-27T20:05:10.967479+00:00",
+    "gh:tag:github.com,2008:Repository/965415649/rust-v0.165.0": "2026-10-27T20:05:10.967479+00:00",
+    "hn:50260814": "2026-10-27T20:05:10.967479+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -164,13 +171,13 @@
     ],
     "openai/codex": [
       0,
-      164
+      165
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.45
+    "2026-10": 0.47
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2114848334250709199"
+  "x_since_id": "2115159585548021814"
 }

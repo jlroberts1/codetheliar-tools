@@ -2,6 +2,13 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-27 15:05 · **OpenAI** · [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)
+- 2026-10-27 15:05 · **OpenAI** · [How Check Point accelerates vulnerability research with Daybreak](https://openai.com/index/check-point-daybreak)
+- 2026-10-27 15:05 · **Google DeepMind** · [We’re announcing Genie 4, our new world model for real-time interactive simulation.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/)
+- 2026-10-27 15:05 · **Hugging Face** · [Build specialized multimodal models with LFM3](https://huggingface.co/blog/LiquidAI/lfm3)
+- 2026-10-27 15:05 · **Hugging Face** · [Can we trust LLMs to judge whether a research idea is novel?](https://huggingface.co/blog/allenai/novelty-bench)
+- 2026-10-27 15:05 · **GitHub openai/codex** · [codex rust-v0.165.0](https://github.com/openai/codex/releases/tag/rust-v0.165.0)
+- 2026-10-27 15:05 · **HN 268 pts** · [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
 - 2026-10-27 09:29 · **HN 342 pts** · [Roblox downloaded 145GB models from us (including adult content) without asking](https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/)
 - 2026-10-27 09:29 · **HN 160 pts** · [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 - 2026-10-26 21:03 · **Simon Willison (llm-release)** · [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/)
