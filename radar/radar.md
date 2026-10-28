@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-28 07:50 · **OpenAI** · [Legora is building the agentic operating system for legal work](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
+- 2026-10-28 07:50 · **HN 183 pts** · [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
 - 2026-10-28 00:39 · **HN 265 pts** · [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 - 2026-10-28 00:39 · **HN 187 pts** · [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 - 2026-10-27 18:46 · **OpenAI** · [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)

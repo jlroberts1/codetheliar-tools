@@ -1,7 +1,5 @@
 {
   "seen": {
-    "feed:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": "2026-10-14T10:10:02.590239+00:00",
-    "feed:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/": "2026-10-14T10:10:02.590239+00:00",
     "hn:50084240": "2026-10-14T15:07:30.012281+00:00",
     "feed:https://openai.com/index/amp-beyond-coding": "2026-10-14T19:21:52.150435+00:00",
     "feed:https://openai.com/index/sentinelone": "2026-10-14T19:21:52.150435+00:00",
@@ -147,7 +145,9 @@
     "feed:https://openai.com/index/retell-ai": "2026-10-27T23:46:05.403350+00:00",
     "gh:tag:github.com,2008:Repository/968197216/v0.66.0": "2026-10-27T23:46:05.403350+00:00",
     "hn:50264853": "2026-10-28T05:39:06.922658+00:00",
-    "hn:50265609": "2026-10-28T05:39:06.922658+00:00"
+    "hn:50265609": "2026-10-28T05:39:06.922658+00:00",
+    "feed:https://openai.com/index/legora-agentic-operating-system-for-legal-work": "2026-10-28T12:50:13.257803+00:00",
+    "hn:50265594": "2026-10-28T12:50:13.257803+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
