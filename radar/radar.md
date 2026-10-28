@@ -2,6 +2,11 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-28 18:13 · **OpenAI** · [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion)
+- 2026-10-28 18:13 · **HN 224 pts** · [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
+- 2026-10-28 18:13 · **HN 177 pts** · [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
+- 2026-10-28 18:13 · **X @vercel** · [Introducing virtual models on AI Gateway. Use a single virtual model ID across agents to: • Centrally manage model strings and configs • Imm](https://x.com/vercel/status/2115571121622073355)
+- 2026-10-28 18:13 · **X @vercel** · [Introducing Vercel CI • Intelligently skips tasks with Turborepo • 2-6× faster CI in our internal repositories • Optimized for agents via Ve](https://x.com/vercel/status/2115526935636021696)
 - 2026-10-28 13:51 · **OpenAI** · [The future of the firm](https://openai.com/index/the-future-of-the-firm)
 - 2026-10-28 13:51 · **OpenAI** · [Legora is building the agentic operating system for legal work](https://openai.com/index/legora)
 - 2026-10-28 13:51 · **Hugging Face** · [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
