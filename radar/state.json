@@ -1,16 +1,5 @@
 {
   "seen": {
-    "feed:https://openai.com/index/higgsfield-longer-videos-voice": "2026-10-14T04:45:54.170550+00:00",
-    "feed:https://blog.google/innovation-and-ai/technology/health/ai-health-research/": "2026-10-14T04:45:54.170550+00:00",
-    "feed:https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": "2026-10-14T04:45:54.170550+00:00",
-    "feed:https://simonwillison.net/2026/Oct/13/llm-gemini/": "2026-10-14T04:45:54.170550+00:00",
-    "feed:https://simonwillison.net/2026/Oct/12/llm-meta-ai/": "2026-10-14T04:45:54.170550+00:00",
-    "gh:tag:github.com,2008:Repository/937253475/v2.1.299": "2026-10-14T04:45:54.170550+00:00",
-    "gh:tag:github.com,2008:Repository/968197216/v0.64.0": "2026-10-14T04:45:54.170550+00:00",
-    "gh:tag:github.com,2008:Repository/658928958/v0.40.4": "2026-10-14T04:45:54.170550+00:00",
-    "hn:50073879": "2026-10-14T04:45:54.170550+00:00",
-    "hn:50073633": "2026-10-14T04:45:54.170550+00:00",
-    "hn:50078141": "2026-10-14T04:45:54.170550+00:00",
     "feed:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": "2026-10-14T10:10:02.590239+00:00",
     "feed:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/": "2026-10-14T10:10:02.590239+00:00",
     "hn:50084240": "2026-10-14T15:07:30.012281+00:00",
@@ -156,7 +145,9 @@
     "gh:tag:github.com,2008:Repository/965415649/rust-v0.165.0": "2026-10-27T20:05:10.967479+00:00",
     "hn:50260814": "2026-10-27T20:05:10.967479+00:00",
     "feed:https://openai.com/index/retell-ai": "2026-10-27T23:46:05.403350+00:00",
-    "gh:tag:github.com,2008:Repository/968197216/v0.66.0": "2026-10-27T23:46:05.403350+00:00"
+    "gh:tag:github.com,2008:Repository/968197216/v0.66.0": "2026-10-27T23:46:05.403350+00:00",
+    "hn:50264853": "2026-10-28T05:39:06.922658+00:00",
+    "hn:50265609": "2026-10-28T05:39:06.922658+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [

@@ -2,6 +2,8 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-28 00:39 · **HN 265 pts** · [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
+- 2026-10-28 00:39 · **HN 187 pts** · [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 - 2026-10-27 18:46 · **OpenAI** · [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)
 - 2026-10-27 18:46 · **GitHub google-gemini/gemini-cli** · [gemini-cli Release v0.66.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0)
 - 2026-10-27 15:05 · **OpenAI** · [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)
