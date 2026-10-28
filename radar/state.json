@@ -1,6 +1,5 @@
 {
   "seen": {
-    "hn:50084240": "2026-10-14T15:07:30.012281+00:00",
     "feed:https://openai.com/index/amp-beyond-coding": "2026-10-14T19:21:52.150435+00:00",
     "feed:https://openai.com/index/sentinelone": "2026-10-14T19:21:52.150435+00:00",
     "feed:https://openai.com/index/third-moment-research": "2026-10-14T19:21:52.150435+00:00",
@@ -147,7 +146,12 @@
     "hn:50264853": "2026-10-28T05:39:06.922658+00:00",
     "hn:50265609": "2026-10-28T05:39:06.922658+00:00",
     "feed:https://openai.com/index/legora-agentic-operating-system-for-legal-work": "2026-10-28T12:50:13.257803+00:00",
-    "hn:50265594": "2026-10-28T12:50:13.257803+00:00"
+    "hn:50265594": "2026-10-28T12:50:13.257803+00:00",
+    "feed:https://openai.com/index/the-future-of-the-firm": "2026-10-28T18:51:37.122297+00:00",
+    "feed:https://openai.com/index/legora": "2026-10-28T18:51:37.122297+00:00",
+    "feed:https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": "2026-10-28T18:51:37.122297+00:00",
+    "hn:50276792": "2026-10-28T18:51:37.122297+00:00",
+    "x:2115500308873052465": "2026-10-28T18:51:37.122297+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -168,9 +172,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.485
+    "2026-10": 0.515
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2115207004293853358"
+  "x_since_id": "2115507199623803084"
 }

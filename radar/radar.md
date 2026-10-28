@@ -2,6 +2,11 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-28 13:51 · **OpenAI** · [The future of the firm](https://openai.com/index/the-future-of-the-firm)
+- 2026-10-28 13:51 · **OpenAI** · [Legora is building the agentic operating system for legal work](https://openai.com/index/legora)
+- 2026-10-28 13:51 · **Hugging Face** · [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
+- 2026-10-28 13:51 · **HN 407 pts** · [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+- 2026-10-28 13:51 · **X @github** · [What it means to be a developer has changed, but the goal of completing meaningful software work remains the same. Today we shipped some upd](https://x.com/github/status/2115500308873052465)
 - 2026-10-28 07:50 · **OpenAI** · [Legora is building the agentic operating system for legal work](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
 - 2026-10-28 07:50 · **HN 183 pts** · [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
 - 2026-10-28 00:39 · **HN 265 pts** · [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
