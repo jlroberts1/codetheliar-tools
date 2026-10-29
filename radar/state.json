@@ -1,6 +1,5 @@
 {
   "seen": {
-    "feed:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/": "2026-10-15T13:24:14.630907+00:00",
     "feed:https://openai.com/index/teaching-students-to-think-and-learn-through-questions": "2026-10-15T18:16:39.813415+00:00",
     "feed:https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": "2026-10-15T18:16:39.813415+00:00",
     "feed:https://huggingface.co/blog/meta-muse-spark-open": "2026-10-15T18:16:39.813415+00:00",
@@ -148,7 +147,14 @@
     "x:2115571121622073355": "2026-10-28T23:13:22.610880+00:00",
     "x:2115526935636021696": "2026-10-28T23:13:22.610880+00:00",
     "hn:50282838": "2026-10-29T09:55:20.928096+00:00",
-    "hn:50284255": "2026-10-29T09:55:20.928096+00:00"
+    "hn:50284255": "2026-10-29T09:55:20.928096+00:00",
+    "feed:https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": "2026-10-29T16:55:23.423458+00:00",
+    "feed:https://huggingface.co/blog/announcing-project-protostar": "2026-10-29T16:55:23.423458+00:00",
+    "feed:https://huggingface.co/blog/mistral-large4": "2026-10-29T16:55:23.423458+00:00",
+    "feed:https://huggingface.co/blog/anydecisionmodel": "2026-10-29T16:55:23.423458+00:00",
+    "hn:50289418": "2026-10-29T16:55:23.423458+00:00",
+    "hn:50288019": "2026-10-29T16:55:23.423458+00:00",
+    "x:2115828507712327979": "2026-10-29T16:55:23.423458+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -169,9 +175,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.545
+    "2026-10": 0.56
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2115604080340988271"
+  "x_since_id": "2115846384850989124"
 }

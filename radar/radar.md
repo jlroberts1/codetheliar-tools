@@ -2,6 +2,13 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-29 11:55 · **Hugging Face** · [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
+- 2026-10-29 11:55 · **Hugging Face** · [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar)
+- 2026-10-29 11:55 · **Hugging Face** · [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)
+- 2026-10-29 11:55 · **Hugging Face** · [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
+- 2026-10-29 11:55 · **HN 551 pts** · [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
+- 2026-10-29 11:55 · **HN 286 pts** · [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
+- 2026-10-29 11:55 · **X @huggingface** · [We sat down with @MistralAI's Pierre Stock and Sagar Vaze from Mistral on launch day of Mistral Large 4. Open weights. Trained in Mistral’s ](https://x.com/huggingface/status/2115828507712327979)
 - 2026-10-29 04:55 · **HN 456 pts** · [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 - 2026-10-29 04:55 · **HN 363 pts** · [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
 - 2026-10-28 18:13 · **OpenAI** · [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion)
