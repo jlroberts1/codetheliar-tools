@@ -2,6 +2,12 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-29 16:48 · **OpenAI** · [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)
+- 2026-10-29 16:48 · **OpenAI** · [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)
+- 2026-10-29 16:48 · **OpenAI** · [How Ropes & Gray is developing AI for transactional diligence](https://openai.com/index/ropes-gray-ai-diligence)
+- 2026-10-29 16:48 · **GitHub openai/codex** · [codex 0.166.0](https://github.com/openai/codex/releases/tag/rust-v0.166.0)
+- 2026-10-29 16:48 · **HN 274 pts** · [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
+- 2026-10-29 16:48 · **X @github** · [Join us for a final session of open source voices, unexpected demos, and the kind of nerdy joy that reminds you why you got into this in the](https://x.com/github/status/2115911320587641027)
 - 2026-10-29 11:55 · **Hugging Face** · [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
 - 2026-10-29 11:55 · **Hugging Face** · [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar)
 - 2026-10-29 11:55 · **Hugging Face** · [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)
