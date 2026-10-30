@@ -1,8 +1,5 @@
 {
   "seen": {
-    "feed:https://huggingface.co/blog/reflection-beam": "2026-10-16T16:36:47.373288+00:00",
-    "feed:https://openai.com/index/stack-overflow-chatgpt-plugin": "2026-10-16T19:56:55.448333+00:00",
-    "hn:50122800": "2026-10-16T19:56:55.448333+00:00",
     "hn:50118688": "2026-10-16T22:50:05.625640+00:00",
     "hn:50122112": "2026-10-16T22:50:05.625640+00:00",
     "hn:50122951": "2026-10-16T22:50:05.625640+00:00",
@@ -149,7 +146,11 @@
     "hn:50295450": "2026-10-30T08:37:35.779889+00:00",
     "feed:https://openai.com/index/credit-saison": "2026-10-30T15:55:20.402985+00:00",
     "hn:50300683": "2026-10-30T15:55:20.402985+00:00",
-    "x:2116191290216124567": "2026-10-30T15:55:20.402985+00:00"
+    "x:2116191290216124567": "2026-10-30T15:55:20.402985+00:00",
+    "feed:https://openai.com/index/helping-websites-express-ai-training-preferences": "2026-10-30T20:46:25.092672+00:00",
+    "feed:https://openai.com/index/community-safety-report-and-new-protections-for-teens": "2026-10-30T20:46:25.092672+00:00",
+    "feed:https://huggingface.co/blog/nvidia/nemotron-halloween": "2026-10-30T20:46:25.092672+00:00",
+    "hn:50307219": "2026-10-30T20:46:25.092672+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -170,9 +171,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.6
+    "2026-10": 0.615
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2116191290216124567"
+  "x_since_id": "2116236188319453386"
 }

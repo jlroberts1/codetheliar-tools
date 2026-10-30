@@ -2,6 +2,10 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-30 15:46 · **OpenAI** · [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences)
+- 2026-10-30 15:46 · **OpenAI** · [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
+- 2026-10-30 15:46 · **Hugging Face** · [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)
+- 2026-10-30 15:46 · **HN 178 pts** · [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
 - 2026-10-30 10:55 · **OpenAI** · [Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot](https://openai.com/index/credit-saison)
 - 2026-10-30 10:55 · **HN 249 pts** · [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
 - 2026-10-30 10:55 · **X @vercel** · [Introducing Geist Serif. https://t.co/UUHenV769c](https://x.com/vercel/status/2116191290216124567)
