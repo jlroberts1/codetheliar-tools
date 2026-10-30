@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-29 20:56 · **HN 160 pts** · [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 - 2026-10-29 16:48 · **OpenAI** · [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)
 - 2026-10-29 16:48 · **OpenAI** · [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)
 - 2026-10-29 16:48 · **OpenAI** · [How Ropes & Gray is developing AI for transactional diligence](https://openai.com/index/ropes-gray-ai-diligence)
