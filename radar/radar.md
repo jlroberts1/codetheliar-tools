@@ -2,6 +2,7 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-30 03:37 · **HN 196 pts** · [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 - 2026-10-29 20:56 · **HN 160 pts** · [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 - 2026-10-29 16:48 · **OpenAI** · [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)
 - 2026-10-29 16:48 · **OpenAI** · [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)

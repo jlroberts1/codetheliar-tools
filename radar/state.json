@@ -1,7 +1,5 @@
 {
   "seen": {
-    "feed:https://openai.com/index/sullivan-cromwell": "2026-10-16T05:50:19.034916+00:00",
-    "feed:https://huggingface.co/blog/nvidia/scaling-indic-pretraining": "2026-10-16T05:50:19.034916+00:00",
     "feed:https://huggingface.co/blog/reflection-beam": "2026-10-16T16:36:47.373288+00:00",
     "feed:https://openai.com/index/stack-overflow-chatgpt-plugin": "2026-10-16T19:56:55.448333+00:00",
     "hn:50122800": "2026-10-16T19:56:55.448333+00:00",
@@ -147,7 +145,8 @@
     "gh:tag:github.com,2008:Repository/965415649/rust-v0.166.0": "2026-10-29T21:48:51.395267+00:00",
     "hn:50290177": "2026-10-29T21:48:51.395267+00:00",
     "x:2115911320587641027": "2026-10-29T21:48:51.395267+00:00",
-    "hn:50296486": "2026-10-30T01:56:56.868261+00:00"
+    "hn:50296486": "2026-10-30T01:56:56.868261+00:00",
+    "hn:50295450": "2026-10-30T08:37:35.779889+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -168,9 +167,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.59
+    "2026-10": 0.595
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2115934036765856250"
+  "x_since_id": "2116074289053175808"
 }
