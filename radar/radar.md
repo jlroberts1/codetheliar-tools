@@ -2,6 +2,9 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-30 10:55 · **OpenAI** · [Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot](https://openai.com/index/credit-saison)
+- 2026-10-30 10:55 · **HN 249 pts** · [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+- 2026-10-30 10:55 · **X @vercel** · [Introducing Geist Serif. https://t.co/UUHenV769c](https://x.com/vercel/status/2116191290216124567)
 - 2026-10-30 03:37 · **HN 196 pts** · [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 - 2026-10-29 20:56 · **HN 160 pts** · [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 - 2026-10-29 16:48 · **OpenAI** · [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)
