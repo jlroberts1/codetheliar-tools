@@ -2,6 +2,10 @@
 
 Newest first. Written by radar.py every hour.
 
+- 2026-10-30 19:46 · **OpenAI** · [Fair use benefits everyone](https://openai.com/index/fair-use-benefits-everyone)
+- 2026-10-30 19:46 · **HN 180 pts** · [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
+- 2026-10-30 19:46 · **HN 157 pts** · [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
+- 2026-10-30 19:46 · **X @OpenAIDevs** · [Building with the Agents API? Here's what we shipped this week for you: https://t.co/NkTFAsLJCR](https://x.com/OpenAIDevs/status/2116306164375863343)
 - 2026-10-30 15:46 · **OpenAI** · [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences)
 - 2026-10-30 15:46 · **OpenAI** · [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
 - 2026-10-30 15:46 · **Hugging Face** · [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)

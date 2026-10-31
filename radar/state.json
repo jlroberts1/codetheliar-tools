@@ -1,8 +1,5 @@
 {
   "seen": {
-    "hn:50118688": "2026-10-16T22:50:05.625640+00:00",
-    "hn:50122112": "2026-10-16T22:50:05.625640+00:00",
-    "hn:50122951": "2026-10-16T22:50:05.625640+00:00",
     "feed:https://openai.com/index/itau-generative-ai": "2026-10-17T01:18:04.196131+00:00",
     "hn:50122431": "2026-10-17T01:18:04.196131+00:00",
     "feed:https://openai.com/index/benefit-street-partners": "2026-10-17T06:55:17.966657+00:00",
@@ -150,7 +147,11 @@
     "feed:https://openai.com/index/helping-websites-express-ai-training-preferences": "2026-10-30T20:46:25.092672+00:00",
     "feed:https://openai.com/index/community-safety-report-and-new-protections-for-teens": "2026-10-30T20:46:25.092672+00:00",
     "feed:https://huggingface.co/blog/nvidia/nemotron-halloween": "2026-10-30T20:46:25.092672+00:00",
-    "hn:50307219": "2026-10-30T20:46:25.092672+00:00"
+    "hn:50307219": "2026-10-30T20:46:25.092672+00:00",
+    "feed:https://openai.com/index/fair-use-benefits-everyone": "2026-10-31T00:46:47.766546+00:00",
+    "hn:50306442": "2026-10-31T00:46:47.766546+00:00",
+    "hn:50272479": "2026-10-31T00:46:47.766546+00:00",
+    "x:2116306164375863343": "2026-10-31T00:46:47.766546+00:00"
   },
   "github_minor": {
     "anthropics/claude-code": [
@@ -171,9 +172,9 @@
     ]
   },
   "x_cost_usd": {
-    "2026-10": 0.615
+    "2026-10": 0.625
   },
   "seeded": true,
   "last_errors": [],
-  "x_since_id": "2116236188319453386"
+  "x_since_id": "2116306164375863343"
 }
